@@ -12,7 +12,7 @@ while True:
         while (z != 100): 
           print("Downloading Plans "+str(z)+"%")
           z = z + 1
-          print("Download DONE")
+        print("Download DONE")
       else:
         print("Abort")
   else:
