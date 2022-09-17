@@ -10,7 +10,7 @@ while True:
       if (y == "y"):
         z = int(0)
         while (z != 100): 
-          print("Downloading Plans "+z+"%")
+          print("Downloading Plans "+str(z)+"%")
           z = z + 1
           print("Download DONE")
       else:
