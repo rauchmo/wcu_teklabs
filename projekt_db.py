@@ -11,6 +11,7 @@ while True:
         z = int(0)
         while (z != 100): 
           print("Downloading Plans "+str(z)+"%")
+          time.sleep(0.5)
           z = z + 1
         print("Download DONE")
       else:
