@@ -5,7 +5,7 @@ while True:
   print("Searching... Please wait")
   time.sleep(3)
   if x == "6969420":
-      print("Projekt "Martin Man Control Device" found")
+      print("Projekt Martin Man Control Device found")
       y = input("Download Plans (y/n):")
       if (y == "y"):
         z = 0
