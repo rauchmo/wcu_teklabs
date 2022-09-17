@@ -8,7 +8,7 @@ while True:
       print("Projekt Martin Man Control Device found")
       y = input("Download Plans (y/n):")
       if (y == "y"):
-        z = 0
+        z = int(0)
         while (z != 100): 
           print("Downloading Plans "+z+"%")
           z = z + 1
